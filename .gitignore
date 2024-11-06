@@ -1,0 +1,5 @@
+*.o 
+*.d
+./obj
+./bin
+./bin/myapp
